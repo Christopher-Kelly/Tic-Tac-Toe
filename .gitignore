@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/Simple Tic-Tac-Toe (Java)/task/build/
+/Simple Tic-Tac-Toe (Java)/task/out/
+/Simple Tic-Tac-Toe (Java)/task/out/production/classes/
+/Simple Tic-Tac-Toe (Java)/task/out/test/classes/
